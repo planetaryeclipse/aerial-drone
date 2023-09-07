@@ -1,0 +1,3 @@
+../Drone/src/dist_sens.c:32:6:ReadRngs	8	static
+../Drone/src/dist_sens.c:55:6:Rng1EchoCallback	24	static
+../Drone/src/dist_sens.c:78:6:Rng2EchoCallback	24	static

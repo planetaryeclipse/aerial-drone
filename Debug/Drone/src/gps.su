@@ -1,0 +1,2 @@
+../Drone/src/gps.c:9:6:GPSRxCpltCallback	4	static
+../Drone/src/gps.c:13:6:GPSTxCpltCallback	4	static

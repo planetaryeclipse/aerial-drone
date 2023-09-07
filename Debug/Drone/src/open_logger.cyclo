@@ -1,0 +1,2 @@
+../Drone/src/open_logger.c:27:6:LoggerRxCpltCallback	1
+../Drone/src/open_logger.c:28:6:LoggerTxCpltCallback	1

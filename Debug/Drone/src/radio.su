@@ -1,0 +1,4 @@
+../Drone/src/radio.c:36:6:ParseRecvMsg	56	static
+../Drone/src/radio.c:71:6:RadioRxCpltCallback	16	static
+../Drone/src/radio.c:111:6:RadioTxCpltCallback	4	static
+../Drone/src/radio.c:118:6:RadioManager	16	static

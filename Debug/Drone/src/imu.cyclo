@@ -1,0 +1,8 @@
+../Drone/src/imu.c:25:6:verify_imu_comms	3
+../Drone/src/imu.c:40:6:set_mag_ctrl_regs	1
+../Drone/src/imu.c:73:6:check_if_mag_avail	2
+../Drone/src/imu.c:84:6:read_mag_axes	6
+../Drone/src/imu.c:122:6:set_inertial_ctrl_regs	2
+../Drone/src/imu.c:174:6:check_if_inertial_avail	2
+../Drone/src/imu.c:186:6:read_inertial_axes	11
+../Drone/src/imu.c:258:6:ReadMag	1

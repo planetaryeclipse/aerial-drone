@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:180:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:274:6:StartBlink	1
+../Core/Src/freertos.c:293:13:ReadPressureSensor	1
+../Core/Src/freertos.c:311:13:WriteLogger	1
+../Core/Src/freertos.c:329:13:RadioManager	1
+../Core/Src/freertos.c:347:13:ReadMag	1
+../Core/Src/freertos.c:365:13:ReadInertial	1
+../Core/Src/freertos.c:383:13:ReadRngs	1
+../Core/Src/freertos.c:401:13:ControlActuators	1

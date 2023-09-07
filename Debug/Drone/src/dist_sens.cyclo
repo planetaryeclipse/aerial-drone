@@ -1,0 +1,3 @@
+../Drone/src/dist_sens.c:32:6:ReadRngs	1
+../Drone/src/dist_sens.c:55:6:Rng1EchoCallback	3
+../Drone/src/dist_sens.c:78:6:Rng2EchoCallback	3

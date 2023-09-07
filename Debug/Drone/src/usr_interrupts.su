@@ -1,0 +1,3 @@
+../Drone/src/usr_interrupts.c:20:6:HAL_UART_RxCpltCallback	16	static
+../Drone/src/usr_interrupts.c:26:6:HAL_UART_TxCpltCallback	16	static
+../Drone/src/usr_interrupts.c:29:6:HAL_GPIO_EXTI_Callback	16	static
